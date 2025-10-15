@@ -1,1 +1,2 @@
 print("Salomat....")
+print("Bekorchilik..."
