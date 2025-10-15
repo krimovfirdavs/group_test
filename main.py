@@ -1,4 +1,3 @@
 print("Salomat...")
 print("Bekorchilik")
 
-
