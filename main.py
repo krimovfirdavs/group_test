@@ -1,2 +1,1 @@
-print("Salomat...")
-
+print("Salomat....")
