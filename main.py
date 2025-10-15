@@ -1,1 +1,3 @@
-print("Salomat....")
+print("Salomat...")
+print("Bekorchilik")
+
